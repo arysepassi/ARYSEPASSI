@@ -1,0 +1,14 @@
+---
+title: "Welcome"
+---
+<center>
+```{r, echo=FALSE}
+knitr::include_graphics("C:/Users/aryse/OneDrive/Desktop/personal-website/img/Capture.png")
+```
+</center>
+
+
+I am an Assistant Professor of Clinical Pharmacy Practice at the University of California, Irvine School of Pharmacy & Pharmaceutical Sciences. 
+
+I am a health economist, a pharmacist, and a health outcomes researcher. My research interests include health economics, econometric methods, and epidemiologic research. I mostly use R for my analyses (including for this website!), but on occasion will also use SAS or STATA. I'm always learning new things, so one of my great passions is sharing my code from research projects with others also looking to self-learn. 
+
