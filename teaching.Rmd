@@ -1,6 +1,5 @@
 ---
 title: "Teaching"
-output: html_document
 ---
 
 **PHMD 215: Health Policy & Health Economics**  

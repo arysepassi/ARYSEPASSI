@@ -3,7 +3,7 @@ title: "Welcome"
 ---
 <center>
 ```{r, echo=FALSE}
-knitr::include_graphics("C:/Users/aryse/OneDrive/Desktop/personal-website/img/Capture.png")
+knitr::include_graphics("C:/Users/aryse/OneDrive/Desktop/ARYSEPASSI/img/Capture.png")
 ```
 </center>
 
