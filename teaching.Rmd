@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+output: html_document
+---
+
+**PHMD 215: Health Policy & Health Economics**  
+University of California, Irvine School of Pharmacy & Pharmaceutical Sciences  
+
+<font size="2">
+Schedule: Winter Quarter 2023 
+
+Description: This course is designed as an introductory course for pharmacy students into health systems, health economics, and how policy affects these systems in the United States to affect patient care. The first half of the course is designed to teach students the basics of health insurance, health policy, and how pharmacoeconomics can play a role in decision making at larger level to affect patient care. Students will learn about public and private health insurance systems, how to interpret various health economic analyses and models, and how to use results from a pharmacoeconomic analysis to make a formulary decision for patient care. 
+
+In the future, I will be posting lecture materials and supplementary materials in this tab.
+
+</font>
+
