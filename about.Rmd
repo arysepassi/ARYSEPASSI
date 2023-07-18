@@ -6,7 +6,7 @@ title: "About Me"
 # **"Audentes Fortuna Iuvat"** *-Virgil* 
 
 <font size="1">
-"Fortune Favors the Bold". I try to live by this statement as much as I can, because if one lacks the courage to humble themselves and try to learn new things, then one becomes stagnant. 
+"Fortune Favors the Bold".  
 </font>
 
 </center>  
@@ -31,4 +31,4 @@ title: "About Me"
 
 ## Where I Am Now 
 
-- Assistant Professor of Clinical Pharmacy Practice  at UC Irvine [School of Pharmacy & Pharmaceutical Sciences](https://pharmsci.uci.edu/)
+- Assistant Professor of Clinical Pharmacy Practice at UC Irvine [School of Pharmacy & Pharmaceutical Sciences](https://pharmsci.uci.edu/)
